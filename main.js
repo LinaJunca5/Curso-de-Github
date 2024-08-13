@@ -1,1 +1,4 @@
-console.log ("Holaaaa!");
+const saludarAlosAlumnos =() => {
+    return 'Hola';  
+
+}
